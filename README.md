@@ -1,8 +1,8 @@
-# Hi, I'm Aayush Parajuli 👋
+# Hi, I'm Aayush Parajuli !
 
 BCA student from Kathmandu, Nepal, building projects in Java, .NET and React.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -12,13 +12,12 @@ BCA student from Kathmandu, Nepal, building projects in Java, .NET and React.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Building 3 clean projects: Java (Student Management System), .NET (MVC CRUD app) and React (deployed web app)
 - Solving practice problems on HackerRank
 - Looking for an internship or junior developer role
 
-## 📫 Contact
+## Contact
 
-- Email: your.email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: Parajuliaayush15@gmail.com
